@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(233, 255, 255);
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration:underline;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+.form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.area{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.divPrincipal{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.limite{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.borda{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(194, 248, 248);
+    width:30%;height: 100%px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+.divArea{
+    padding: 10px;
+    background-color: rgb(233, 255, 255);
+    width:90%;height: 100%px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+hr{
+    width: 100%;
+    height: 1.5px;
+    border: 1.5px solid rgb(0, 0, 0);
+      color: #000000;
+      background-color: #000000;
+}
+.borda2{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(194, 248, 248);
+    width:90%;height: 100%px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
